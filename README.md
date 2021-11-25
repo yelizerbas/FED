@@ -36,15 +36,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://bbnomula.com/eat-ya-veggies/
+https://www.sidemenclothing.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home Pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="Home pagina van zijn tour">
+<img src="images/SDMN-homepage.png" width="375px" alt="Home pagina van website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Merch Shop 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="Merch shop">
+<img src="images/SDMN-product.png" width="375px" alt="Product pagina hoodie">
  
 </details>
 
