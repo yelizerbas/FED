@@ -16,7 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Yeliz Erbas
+Yeliz Erbas :)
 
 #### Je startniveau:
 Blauw
@@ -61,8 +61,6 @@ Merch Shop
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -76,26 +74,29 @@ Merch Shop
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Tot nu toe gaat het best prima. Ik heb wel het gevoel dat ik al wat verder hoor te zijn.
+Ik loop een beetje vast met mijn carousellen en knopjes, maar het zal allemaal vast wel goed komen.
 
+<img src="images/website1.png" width="375px" alt="deel van eerste mijn pagina tot nu toe">
+<img src="images/carousel1.png" width="375px" alt="een van de carousellen op mijn eerste pagina tot nu toe">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Yeliz          | Larissa         | Laurens      | Lindsey     |
+| ---            | ---             | ---          | ---         |
+| Geen vraag     | Knop centreren  | Animatie     | Footer      |
+|                |                 |              |             |
+|                |                 |              |             |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Zo min mogelijk divs
+- Button veranderen naar a
+- Dubbele dingen weghalen zoals li p /p /li>
+- Voor de rest ben ik goed op gang volgens de student assistenten
 
 </details>
 
@@ -109,17 +110,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Op dit moment gaat het erg goed. Mijn eerste pagina is zo goed als af. Inclusief het hamburger menu. Het enige wat ik nog wil doen is de "carousel" in het midden krijgen. Ik ben dus best goed op gang. Als mijn tweede pagina af is moet ik nog de surface plane dingen toevoegen en al mijn code netjes en overzichtelijk maken met comments.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Yeliz          | Larissa         | Anneke       | Lindsey     |
+| ---            | ---             | ---          | ---         |
+| Tweede Pagina  | Dark mode       | Geen vraag   | Geen vraag  |
+| Carousel       |                 |              |             |
+|                |                 |              |             |
 
 
 ### Verslag van meeting
