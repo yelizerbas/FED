@@ -1,14 +1,14 @@
-// JavaScript Document
+// function hamburgermenu
 var menuButton = document.querySelector("nav button");
 var crossButton = document.querySelector("nav ul button");
+var navElement = document.querySelector("nav");
 
-function onMenu(event) {
-  menu = event.target.parentNode;
-  menu.classList.add("showMenu");
+function onMenu() {
+  navElement.classList.add("showMenu");
 }
 
 function offMenu() {
-  menu.classList.remove("showMenu");
+  navElement.classList.remove("showMenu");
 }
 
 menuButton.addEventListener("click", onMenu);
@@ -16,8 +16,7 @@ crossButton.addEventListener("click", offMenu);
 
 
 
-
-
+// function quantity hoodie
 var aantal = 0;
 var pElement = document.querySelector("p#hoeveelheid");
 var minButton = document.querySelector("button.min");
