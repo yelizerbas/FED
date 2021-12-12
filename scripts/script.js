@@ -1,32 +1,44 @@
 // JavaScript Document
-// const carousel = document.querySelector("section:nth-of-type(6)");
-// const carouselButtons = document.querySelectorAll("section:nth-of-type(6) ul li button");
-
-// function carouselScroll () {
-//     const carouselWidth = document.querySelector("section:nth-of-type(6)").clientWidth
-//     // for (){
-//     // carousel.scrollTo(carouselWidth*0, 0);
-//     // }
-//     console.log(carouselButtons);
-    
-    
-// }
-
-// for (let i = 0; i<carouselButtons.length; i++) {
-//     carouselButtons[i].addEventListener("click", carouselScroll);
-// }
-
 var menuButton = document.querySelector("nav button");
 var crossButton = document.querySelector("nav ul button");
 
 function onMenu(event) {
-  deNav = event.target.parentNode;
-  deNav.classList.add("showMenu");
+  menu = event.target.parentNode;
+  menu.classList.add("showMenu");
 }
 
 function offMenu() {
-  deNav.classList.remove("showMenu");
+  menu.classList.remove("showMenu");
 }
 
 menuButton.addEventListener("click", onMenu);
 crossButton.addEventListener("click", offMenu);
+
+
+
+
+
+var aantal = 0;
+var pElement = document.querySelector("p#hoeveelheid");
+var minButton = document.querySelector("button.min");
+var plusButton = document.querySelector("button.plus");
+
+function plusAantal(){
+  aantal++; 
+  pElement.textContent= aantal;
+}
+
+function minAantal(){
+  if(aantal > 0){
+    aantal = aantal - 1;
+    pElement.textContent= aantal;
+  }
+  else{
+    pElement.textContent= aantal;
+  }
+}
+
+if(window.location.href.includes("product.html")) {
+  minButton.addEventListener("click", minAantal)
+  plusButton.addEventListener("click", plusAantal);
+}

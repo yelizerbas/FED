@@ -110,25 +110,26 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Op dit moment gaat het erg goed. Mijn eerste pagina is zo goed als af. Inclusief het hamburger menu. Het enige wat ik nog wil doen is de "carousel" in het midden krijgen. Ik ben dus best goed op gang. Als mijn tweede pagina af is moet ik nog de surface plane dingen toevoegen en al mijn code netjes en overzichtelijk maken met comments.
+Op dit moment gaat het erg goed. Mijn eerste pagina is zo goed als af. 
+Inclusief het hamburger menu. Het enige wat ik nog wil doen is de "carousel" 
+in het midden krijgen. Ik ben dus best goed op gang. Als mijn tweede pagina af is 
+moet ik nog de surface plane dingen toevoegen en al mijn code netjes en overzichtelijk maken met comments.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Yeliz          | Larissa         | Anneke       | Lindsey     |
-| ---            | ---             | ---          | ---         |
-| Tweede Pagina  | Dark mode       | Geen vraag   | Geen vraag  |
-| Carousel       |                 |              |             |
-|                |                 |              |             |
+| Yeliz          | Larissa         | Anneke        | Lindsey     |
+| ---            | ---             | ---           | ---         |
+| Tweede Pagina  | Dark mode       | Geen vraag    | Geen vraag  |
+|                |                 |               |             |
+|                |                 |               |             |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Kiezen welke pagina ik wil, een pagina is niet perse beter dan de ander
+- Png op hidden zetten voor darkmode
 
 </details>
 
@@ -144,28 +145,48 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Parkinson apparaat
+Ik heb de parkinson apparaat geprobeerd, en tot mijn vernazing ging het erg makkelijk.
+Ik had niet echt moeite met scrollen op de touchpad en ik kon de knoppen heel makkelijk aanklikken.
+Ook heeft Laurens mijn website getest. Hij kon het ook zonder enige problemen gebruiken.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Ballon 
+Het hooghouden van een ballon en een website goed gebruiken is wat lastiger. Het is heel irritant om
+de heletijd ergens anders mee bezig te zijn terwijl je een website wilt gebruiken. Ik vond wel dat 
+mijn webiste hele duidelijke stukken heeft dus je weet wel waar je bent. 
 
+#### Kleuren bril 
+Met de gele kleuren bril hoor je denk ik "kleurenblind" te moeten zien. Al hoewel er heel veel verschillende
+soorten van kleurenblindheid is, merkte ik er bijna niks van op mijn website. Je kon alles goed van elkaar
+scheiden.
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Als ik het toegangelijk zou willen maken voor kleurenblinden zou ik een functie kunnen toevoegen waarbij kleuren
+worden aangepast naar een bepaalde soort kleurenblindheid. Er zijn er natuurlijk te veel, maar als je er een paar
+uitkiest die het meest voorkomend (bij. rood en groen kleurenblindheid) zijn hel je gelijk een hele grote groep.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### States 
+Bij deze test had ik helaas nog niet de tijd om de states van de knoppen uit te werken. Dus al die states moeten
+nog uitgewerkt worden. Daarom kon je ook mijn webiste nier besturen met 'tab', wat wel erg belangrijk is.
 
+#### Screenreader 
+De screenreader vond ik zelf erg lastig om te begrijpen en besturen, maar als je het gewend bent gaat het 
+waarschijnlijk een stuk makkelijker. Ik had nog bijna geen alt teksten geplaatst. De teksten die ik wel had 
+geplaatst maakten het wel erg duidelijk voor de gebruiker wat er op een foto staat of wat je met het kruisje 
+knopje kan van de navigatie. Dus dat vind ik wel erg mooi om te zien.
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Blurred vision 
+Deze wes erg vervelend. Ik heb zelf lenzen, maar dat ik omdat ik in de verte niet kan zien. Van 
+dicht bij niet zien is toch wat anders. De kleinere stukken tekst waren lastig op te lezen, 
+maar de grote headers niet.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Hoe ik dit het beste kan oplossen is om een functie toe te voegen waarbij je zelf de lettergrootte kan 
+instellen. Zo kunnen mensen die blurred zien de tekst toch wel lezen, en hoeven ze niet heel dicht op hun
+scherm te zitten.
 
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Perifial fieldloss 
+Bij deze bril kon je alleen een heel klein beetje in het midden zien. Het is natuurlijk erg vervelen dat je
+maar zo een kleine oppvervlakte kunt zien, maar weer tot mijn verbazing kon je mijn webiste erg goed zien. 
+Ik weet zelf niet waardoor dit komt. 
 
 </details>
 
@@ -179,26 +200,25 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Tot nu toe gaat het goed. Ik moet nog wel alle alt teksten en states van de buttons doen. Ook moet ik de animaties en darkmode nog doen. Mijn doel voor nu is om eerst mijn tweede pagina af te maken.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Yeliz          | Larissa         | Anneke        | Lindsey     |
+| ---            | ---             | ---           | ---         |
+| Nav dom-       | Footer          | Css opschonen | Geen vraag  |
+| manipulatie    |                 |               |             |
+|                |                 |               |             |
+
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Je moet zelf je css opschonen
+- Weinig vragen, iedereen is goed op weg
 
 </details>
 
@@ -212,11 +232,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vond dit vak heel leuk om te volgen. Alleen jammer dat het zo kort is. Ik had namelijk veel meer willen toevoegen aan mijn site, maar daar had ik helaas de tijd niet voor. Wel heb ik in de korte 4 weken tijd veel geleerd. Het leukste wat ik heb geleerd is denk ik toch wel dark mode. Ik ben zelf erg fan van light mode, maar ik vind het toch heel vet dat ik dat nu kan maken. Er zijn niet perse dingen die ik lastig vind, behalve het maken van een goede carousel. Dat wil ik nog wel graag leren.
+<img src="images/darkmode.png" width="375px" alt="deel van darkmode code">
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/home-pagina.png" width="375px" alt="homepagina, de screenshot plugin heeft het verpest">
+<img src="images/Product-pagina.png" width="375px" alt="product pagina">
 
 </details>
 
@@ -231,8 +253,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://codepen.io/yelizerbas/pen/QWqwbmQ Animaties opdracht
+2. https://codepen.io/shooft/pen/dyRVVRr?editors=1010 Hamburger menu
+3. https://stackoverflow.com/questions/44278584/css-drop-shadow-body box-shadow op body
 
 </details>
